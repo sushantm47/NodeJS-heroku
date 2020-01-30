@@ -1,0 +1,19 @@
+{
+  "name": "nodejsbasics",
+  "version": "1.0.0",
+  "description": "basics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index "
+  },
+  "author": "Sushant",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "uuid": "^3.4.0"
+  }
+}
